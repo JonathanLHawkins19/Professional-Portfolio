@@ -1,2 +1,3 @@
 # Professional-Portfolio
-Jonathan Hawkins' Portfolio Showcasing Deployed Web Apps.
+Jonathan Hawkins' Professional Portfolio
+Showcasing the work of Jonathan Hawkins
